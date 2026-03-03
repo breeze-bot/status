@@ -1,5 +1,5 @@
 {
-  "Reliable": { "enabled": true },
+  "Reliable": { "enabled": false },
   "Fast": { "enabled": true },
   "Balanced": { "enabled": true }
 }
