@@ -12,8 +12,8 @@
   },
 
   "announcement": {
-    "id": "announcement-v3",
-    "enabled": true,
+    "id": "announcement-v4",
+    "enabled": false,
     "title": "Important Notice",
     "message": "Please read this before continuing.",
     "understood_countdown_seconds": 5,
