@@ -1,5 +1,13 @@
 {
   "Reliable": { "enabled": true },
   "Fast": { "enabled": true },
-  "Balanced": { "enabled": true }
+  "Balanced": { "enabled": true },
+
+  "app_update": {
+    "latest_version_name": "3.9",
+    "latest_version_code": 35,
+    "force_update": false,
+    "force_if_play_matches": true,
+    "message": "Please update to continue."
+  }
 }
