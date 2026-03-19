@@ -13,7 +13,7 @@
 
   "announcement": {
     "id": "announcement-v5",
-    "enabled": true,
+    "enabled": false,
     "title": "Oil Price Hike Update",
     "message": "With the rising influx of Oil price worldwide, we have concluded that the price of Subscription will be raised by 2x in the app. Just kidding, the price have been significantly reduced, so better check it out in Settings tab, and grab it while you're there. Thank you for using the app!",
     "understood_countdown_seconds": 10,
