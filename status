@@ -8,6 +8,15 @@
     "latest_version_code": 35,
     "force_update": false,
     "force_if_play_matches": true,
-    "message": "Please update to continue."
+    "message": "A critical update is required to continue."
+  },
+
+  "announcement": {
+    "id": "announcement-v3",
+    "enabled": true,
+    "title": "Important Notice",
+    "message": "Please read this before continuing.",
+    "understood_countdown_seconds": 5,
+    "show_once": true
   }
 }
