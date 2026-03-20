@@ -5,10 +5,10 @@
 
   "app_update": {
     "latest_version_name": "4.0",
-    "latest_version_code": 37,
-    "force_update": false,
+    "latest_version_code": 38,
+    "force_update": true,
     "force_if_play_matches": true,
-    "message": "A critical bug fix update is required to continue."
+    "message": "An update is required to continue."
   },
 
   "announcement": {
