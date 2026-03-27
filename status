@@ -1,6 +1,6 @@
 {
   "Reliable": { "enabled": true },
-  "Fast": { "enabled": true },
+  "Fast": { "enabled": false },
   "Balanced": { "enabled": true },
 
   "app_update": {
