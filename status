@@ -11,6 +11,12 @@
   "Experimental": {
     "enabled": true
   },
+
+  "weekly_recommendation": {
+    "enabled": true,
+    "anilist_url": "https://anilist.co/anime/98707/Land-of-the-Lustrous/"
+  },
+
   "app_update": {
     "latest_version_name": "4.6",
     "latest_version_code": 42,
@@ -18,6 +24,7 @@
     "force_if_play_matches": true,
     "message": "A new update is available."
   },
+
   "announcement": {
     "id": "announcement-v5",
     "enabled": false,
