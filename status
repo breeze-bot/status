@@ -26,12 +26,12 @@
   },
 
   "announcement": {
-    "id": "announcement-v5",
-    "enabled": false,
-    "title": "Something is cooking!",
+    "id": "announcement-v6,
+    "enabled": true,
+    "title": "Notice of Outage",
     "message_format": "html",
-    "message": "<b>Testing the waters.</b><br><br>Get excited for the coming updates!",
-    "understood_countdown_seconds": 5,
+    "message": "There is problem with the API, this is why the app may stop working. We are doing are best to find ways to fix this, but in the meantime, please touch some grass and we'll be back in no time.",
+    "understood_countdown_seconds": 10,
     "show_once": true
   }
 }
