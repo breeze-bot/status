@@ -27,7 +27,7 @@
 
   "announcement": {
     "id": "announcement-v9,
-    "enabled": true,
+    "enabled": false,
     "title": "Notice of Outage",
     "message_format": "plain",
     "message": "There is problem with the API, this is why the app may stop working. We are doing are best to find ways to fix this, but in the meantime, please touch some grass and we'll be back in no time.",
