@@ -20,8 +20,8 @@
   "app_update": {
     "latest_version_name": "4.9",
     "latest_version_code": 45,
-    "force_update": true,
-    "force_if_play_matches": true,
+    "force_update": false,
+    "force_if_play_matches": false,
     "message": "A new update is available."
   },
 
