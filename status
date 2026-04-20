@@ -18,10 +18,10 @@
   },
 
   "app_update": {
-    "latest_version_name": "5.1",
-    "latest_version_code": 50,
-    "force_update": false,
-    "force_if_play_matches": false,
+    "latest_version_name": "5.1.1",
+    "latest_version_code": 54,
+    "force_update": true,
+    "force_if_play_matches": true,
     "message": "A new update is available."
   },
 
