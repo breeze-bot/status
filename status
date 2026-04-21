@@ -33,5 +33,42 @@
     "message": "There is problem with the API, this is why the app may stop working. We are doing are best to find ways to fix this, but in the meantime, please touch some grass and we'll be back in no time.",
     "understood_countdown_seconds": 10,
     "show_once": true
+  },
+
+  "auto_source": {
+    "default_order": ["Balanced", "Reliable", "Fast"],
+    "dub_order": ["Reliable", "Balanced", "Fast"],
+    "sub_order": ["Balanced", "Reliable", "Fast"],
+    "anime_overrides": [
+      {
+        "id": "hunter-x-hunter-2011",
+        "enabled": true,
+        "anilist_ids": [11061],
+        "title_equals": ["hunter x hunter 2011"],
+        "title_contains": ["hunter x hunter"],
+        "default_order": ["Reliable", "Fast", "Balanced"],
+        "dub_order": ["Reliable", "Fast", "Balanced"],
+        "sub_order": ["Reliable", "Fast", "Balanced"]
+      },
+      {
+        "id": "houseki-no-kuni",
+        "enabled": true,
+        "anilist_ids": [98707],
+        "title_equals": ["houseki no kuni", "land of the lustrous"],
+        "title_contains": ["houseki no kuni", "land of the lustrous"],
+        "default_order": ["Reliable", "Fast", "Balanced"],
+        "dub_order": ["Reliable", "Fast", "Balanced"],
+        "sub_order": ["Reliable", "Fast", "Balanced"]
+      },
+      {
+        "id": "ranking-of-kings",
+        "enabled": true,
+        "anilist_ids": [113717],
+        "title_contains": ["ranking of kings", "ousama ranking"],
+        "default_order": ["Balanced", "Reliable", "Fast"],
+        "dub_order": ["Balanced", "Reliable", "Fast"],
+        "sub_order": ["Balanced", "Reliable", "Fast"]
+      }
+    ]
   }
 }
