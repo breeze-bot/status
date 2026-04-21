@@ -36,7 +36,7 @@
   },
 
   "auto_source": {
-    "default_order": ["Balanced", "Reliable", "Fast"],
+    "default_order": ["Reliable", "Balanced", "Fast"],
     "dub_order": ["Reliable", "Balanced", "Fast"],
     "sub_order": ["Balanced", "Reliable", "Fast"],
     "anime_overrides": [
