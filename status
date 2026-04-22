@@ -36,9 +36,9 @@
   },
 
   "auto_source": {
-    "default_order": ["Reliable", "Balanced", "Fast"],
-    "dub_order": ["Reliable", "Balanced", "Fast"],
-    "sub_order": ["Balanced", "Reliable", "Fast"],
+    "default_order": ["Debug", "Reliable", "Balanced", "Fast"],
+    "dub_order": ["Debug", "Reliable", "Balanced", "Fast"],
+    "sub_order": ["Debug", Balanced", "Reliable", "Fast"],
     "anime_overrides": [
       {
         "id": "hunter-x-hunter-2011",
