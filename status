@@ -1,6 +1,6 @@
 {
   "Reliable": {
-    "enabled": true
+    "enabled": false
   },
   "Fast": {
     "enabled": true
