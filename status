@@ -3,7 +3,7 @@
     "enabled": false
   },
   "Fast": {
-    "enabled": false
+    "enabled": true
   },
   "Balanced": {
     "enabled": true
