@@ -26,11 +26,11 @@
   },
 
   "announcement": {
-    "id": "announcement-v9",
-    "enabled": false,
-    "title": "Notice of Outage",
+    "id": "announcement-v10",
+    "enabled": true,
+    "title": "AniList Status",
     "message_format": "plain",
-    "message": "There is problem with the API, this is why the app may stop working. We are doing are best to find ways to fix this, but in the meantime, please touch some grass and we'll be back in no time.",
+    "message": "AniList is currently down, we have no control over this until they fix it. Sorry about that :(",
     "understood_countdown_seconds": 10,
     "show_once": true
   },
