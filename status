@@ -42,7 +42,7 @@
     "anime_overrides": [
       {
         "id": "hunter-x-hunter-2011",
-        "enabled": true,
+        "enabled": false,
         "anilist_ids": [11061],
         "title_equals": ["hunter x hunter 2011"],
         "title_contains": ["hunter x hunter"],
@@ -52,7 +52,7 @@
       },
       {
         "id": "houseki-no-kuni",
-        "enabled": true,
+        "enabled": false,
         "anilist_ids": [98707],
         "title_equals": ["houseki no kuni", "land of the lustrous"],
         "title_contains": ["houseki no kuni", "land of the lustrous"],
@@ -62,7 +62,7 @@
       },
       {
         "id": "ranking-of-kings",
-        "enabled": true,
+        "enabled": false,
         "anilist_ids": [113717],
         "title_contains": ["ranking of kings", "ousama ranking"],
         "default_order": ["Balanced", "Reliable", "Fast"],
