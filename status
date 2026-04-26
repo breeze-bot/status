@@ -19,7 +19,7 @@
 
   "app_update": {
     "latest_version_name": "5.1.6",
-    "latest_version_code": 62,
+    "latest_version_code": 63,
     "force_update": true,
     "force_if_play_matches": true,
     "message": "A new update is available."
