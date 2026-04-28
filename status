@@ -27,7 +27,7 @@
 
   "announcement": {
     "id": "announcement-v10",
-    "enabled": false,
+    "enabled": true,
     "title": "AniList Status",
     "message_format": "plain",
     "message": "AniList is currently down, we have no control over this until they fix it. Sorry about that :(",
