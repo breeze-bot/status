@@ -26,12 +26,12 @@
   },
 
   "announcement": {
-    "id": "announcement-v11",
-    "enabled": false,
-    "title": "AniList Status",
+    "id": "announcement-v12",
+    "enabled": true,
+    "title": "Backend Status",
     "message_format": "plain",
-    "message": "AniList is currently down, we have no control over this until they fix it. Sorry about that :(",
-    "understood_countdown_seconds": 10,
+    "message": "Due to server overload comment section and other features may not work. We're working on it but may take a while. :)",
+    "understood_countdown_seconds": 3,
     "show_once": true
   },
 
