@@ -26,11 +26,11 @@
   },
 
   "announcement": {
-    "id": "announcement-v12",
+    "id": "announcement-v13",
     "enabled": true,
-    "title": "Backend Status",
+    "title": "Search Issue",
     "message_format": "plain",
-    "message": "Due to server overload comment section and other features may not work. We're working on it but may take a while. :)",
+    "message": "AniList search is having an issue right now, you can switch to MAL for the time being via Settings > Personalization > Content > Metadata.",
     "understood_countdown_seconds": 3,
     "show_once": true
   },
