@@ -27,7 +27,7 @@
 
   "announcement": {
     "id": "announcement-v13",
-    "enabled": true,
+    "enabled": false,
     "title": "Search Issue",
     "message_format": "plain",
     "message": "AniList search is having an issue right now, you can switch to MAL for the time being via Settings > Personalization > Content > Metadata.",
