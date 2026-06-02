@@ -18,8 +18,8 @@
   },
 
   "app_update": {
-    "latest_version_name": "Arashi 1.1 Hotfix",
-    "latest_version_code": 108,
+    "latest_version_name": "Arashi 1.2",
+    "latest_version_code": 109,
     "force_update": true,
     "force_if_play_matches": true,
     "message": "A new update is available."
