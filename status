@@ -3,13 +3,13 @@
     "enabled": false
   },
   "Fast": {
-    "enabled": true
+    "enabled": false
   },
   "Balanced": {
-    "enabled": true
+    "enabled": false
   },
   "Experimental": {
-    "enabled": true
+    "enabled": false
   },
 
   "weekly_recommendation": {
