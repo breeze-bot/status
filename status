@@ -26,11 +26,13 @@
   },
 
   "announcement": {
-    "id": "announcement-v13",
+    "id": "announcement-v14",
     "enabled": false,
-    "title": "Search Issue",
+    "title": "Support Anify ⭐",
     "message_format": "plain",
-    "message": "AniList search is having an issue right now, you can switch to MAL for the time being via Settings > Personalization > Content > Metadata.",
+    "message": "Enjoying Anify? A quick rating on the Play Store helps us grow and continue improving the app.
+Have feedback, feature requests, or issues to report? Visit Settings → Report to Dev and let us know. Your feedback helps shape future updates.
+Thank you for being part of the Anify community! ❤️",
     "understood_countdown_seconds": 3,
     "show_once": true
   },
