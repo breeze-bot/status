@@ -14,7 +14,7 @@
 
   "weekly_recommendation": {
     "enabled": true,
-    "anilist_url": "https://anilist.co/anime/99578/Wotakoi-Love-is-Hard-for-Otaku/"
+    "anilist_url": "https://anilist.co/anime/100179/Tada-Never-Falls-In-Love//"
   },
 
   "app_update": {
@@ -28,11 +28,9 @@
   "announcement": {
     "id": "announcement-v14",
     "enabled": false,
-    "title": "Support Anify ⭐",
+    "title": " ",
     "message_format": "plain",
-    "message": "Enjoying Anify? A quick rating on the Play Store helps us grow and continue improving the app.
-Have feedback, feature requests, or issues to report? Visit Settings → Report to Dev and let us know. Your feedback helps shape future updates.
-Thank you for being part of the Anify community! ❤️",
+    "message": " ",
     "understood_countdown_seconds": 3,
     "show_once": true
   },
