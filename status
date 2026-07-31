@@ -1,22 +1,8 @@
 {
-  "Reliable": {
-    "enabled": false
-  },
-  "Fast": {
-    "enabled": false
-  },
-  "Balanced": {
-    "enabled": false
-  },
-  "Experimental": {
-    "enabled": false
-  },
-
   "weekly_recommendation": {
     "enabled": true,
     "anilist_url": "https://anilist.co/anime/1/Cowboy-Bebop/"
   },
-
   "app_update": {
     "latest_version_name": "Arashi 1.3",
     "latest_version_code": 113,
@@ -24,51 +10,13 @@
     "force_if_play_matches": true,
     "message": "A new update is available."
   },
-
   "announcement": {
-    "id": "announcement-v20",
+    "id": "announcement-v19",
     "enabled": true,
     "title": "Important",
     "message_format": "plain",
-    "message": "After this popup, head to the notification section to read and comprehend what is written. We are seeing too many complaints about the app with the newest update and it's sad, as we have been giving announcements about our plans with the app yet many seems to not read them.",
-    "understood_countdown_seconds": 20,
+    "message": "After this popup, head to the notification section to read and comprehend what is written. We are seeing too many complaints about the app with the newest update and it's sad, as we have been giving announcements about our plans with the app yet many seem not to read them.",
+    "understood_countdown_seconds": 10,
     "show_once": true
-  },
-
-  "auto_source": {
-    "default_order": ["Debug", "Reliable", "Balanced", "Fast"],
-    "dub_order": ["Debug", "Reliable", "Balanced", "Fast"],
-    "sub_order": ["Debug", Balanced", "Reliable", "Fast"],
-    "anime_overrides": [
-      {
-        "id": "hunter-x-hunter-2011",
-        "enabled": false,
-        "anilist_ids": [11061],
-        "title_equals": ["hunter x hunter 2011"],
-        "title_contains": ["hunter x hunter"],
-        "default_order": ["Reliable", "Fast", "Balanced"],
-        "dub_order": ["Reliable", "Fast", "Balanced"],
-        "sub_order": ["Reliable", "Fast", "Balanced"]
-      },
-      {
-        "id": "houseki-no-kuni",
-        "enabled": false,
-        "anilist_ids": [98707],
-        "title_equals": ["houseki no kuni", "land of the lustrous"],
-        "title_contains": ["houseki no kuni", "land of the lustrous"],
-        "default_order": ["Reliable", "Fast", "Balanced"],
-        "dub_order": ["Reliable", "Fast", "Balanced"],
-        "sub_order": ["Reliable", "Fast", "Balanced"]
-      },
-      {
-        "id": "ranking-of-kings",
-        "enabled": false,
-        "anilist_ids": [113717],
-        "title_contains": ["ranking of kings", "ousama ranking"],
-        "default_order": ["Balanced", "Reliable", "Fast"],
-        "dub_order": ["Balanced", "Reliable", "Fast"],
-        "sub_order": ["Balanced", "Reliable", "Fast"]
-      }
-    ]
   }
 }
