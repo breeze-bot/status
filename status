@@ -12,7 +12,7 @@
   },
   "announcement": {
     "id": "announcement-v19",
-    "enabled": true,
+    "enabled": false,
     "title": "Important",
     "message_format": "plain",
     "message": "After this popup, head to the notification section to read and comprehend what is written. We are seeing too many complaints about the app with the newest update and it's sad, as we have been giving announcements about our plans with the app yet many seem not to read them.",
