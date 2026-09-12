@@ -1,6 +1,6 @@
 {
   "weekly_recommendation": {
-    "enabled": true,
+    "enabled": false,
     "anilist_url": "https://anilist.co/anime/1482/DGray-man"
   },
   "app_update": {
